@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Analytics</h3>
 
 
-<img align="right" alt="Kryptora" width="400" src=https://github.com/sahib0019/sahib0019/blob/main/programmer.gif
+<img align="right" alt="Kryptora" width="400" src="https://github.com/sahib0019/sahib0019/blob/main/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahib0019&label=Profile%20views&color=0e75b6&style=flat" alt="sahib0019" /> </p>
 
