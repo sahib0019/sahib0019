@@ -1,4 +1,4 @@
-![logo]https://github.com/sahib0019/sahib0019/blob/main/header_gif.gif
+![logo]https://github.com/sahib0019/sahib0019/blob/main/header_gif.gif)
 
 <h1 align="center">Hi 👋, I'm Sahib</h1>
 <h3 align="center">A passionate Data Analytics</h3>
